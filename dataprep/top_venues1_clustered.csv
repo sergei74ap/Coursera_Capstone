@@ -1,0 +1,50 @@
+,Cluster Labels,Neighborhood,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,0,Aarhus,Coffee Shop,Café,Park,Wine Bar,Gym / Fitness Center,Steakhouse,Italian Restaurant,History Museum,Soccer Stadium,Pub
+1,0,The Hague,Park,Café,Coffee Shop,Italian Restaurant,Theater,Pub,Gastropub,Food Truck,Farm,Wine Bar
+2,0,Stockholm,Café,Park,Coffee Shop,Cocktail Bar,Bookstore,Wine Bar,Pub,History Museum,Italian Restaurant,Food Truck
+3,0,Rotterdam,Café,Coffee Shop,Park,Italian Restaurant,Gastropub,Wine Bar,Scenic Lookout,Theater,Steakhouse,Dessert Shop
+4,0,Nuremberg,Café,Park,Coffee Shop,Italian Restaurant,Gym / Fitness Center,Steakhouse,Bookstore,History Museum,Soccer Stadium,Cocktail Bar
+5,0,Münster,Café,Coffee Shop,Italian Restaurant,Park,Theater,Train Station,Bookstore,Wine Bar,Dessert Shop,Garden Center
+6,0,Malmö,Café,Park,Coffee Shop,Italian Restaurant,Gym / Fitness Center,Wine Bar,Cocktail Bar,Farm,Pub,History Museum
+7,0,Lisbon,Park,Café,Scenic Lookout,Wine Bar,Coffee Shop,Gym / Fitness Center,Italian Restaurant,Cocktail Bar,Art Gallery,Theater
+8,0,Copenhagen,Café,Coffee Shop,Park,Wine Bar,Italian Restaurant,Cocktail Bar,Theater,Food Truck,History Museum,Beer Store
+9,0,Helsinki,Café,Park,Coffee Shop,Gym / Fitness Center,Theater,Island,Wine Bar,Cocktail Bar,Scenic Lookout,Farm
+10,0,Amsterdam,Coffee Shop,Café,Park,Italian Restaurant,Dessert Shop,Wine Bar,Bookstore,Gastropub,Scenic Lookout,Theater
+11,0,Athens,Coffee Shop,Café,Dessert Shop,Park,Cocktail Bar,History Museum,Mountain,Theater,Beer Store,Bookstore
+12,1,Lyon,Train Station,Café,Steakhouse,Park,Wine Bar,Pedestrian Plaza,Coffee Shop,Dessert Shop,Art Gallery,Rest Area
+13,1,Toulouse,Train Station,Pub,Park,Wine Bar,History Museum,Dessert Shop,Gastropub,Cocktail Bar,Coffee Shop,Rest Area
+14,1,Marseille,Train Station,Steakhouse,Park,Coffee Shop,Scenic Lookout,Pub,Italian Restaurant,Cosmetics Shop,Mountain,Cupcake Shop
+15,2,Turin,Italian Restaurant,Café,Steakhouse,Park,Wine Bar,Pub,Dessert Shop,Cocktail Bar,Soccer Stadium,Scenic Lookout
+16,2,Bari,Italian Restaurant,Café,Dessert Shop,Pub,Cocktail Bar,Coffee Shop,Steakhouse,Bookstore,Gym / Fitness Center,Train Station
+17,2,Naples,Café,Italian Restaurant,Pub,Cocktail Bar,Coffee Shop,Dessert Shop,History Museum,Wine Bar,Steakhouse,Gastropub
+18,2,Bremen,Café,Italian Restaurant,Park,Steakhouse,Train Station,Coffee Shop,Gastropub,Pedestrian Plaza,History Museum,Cocktail Bar
+19,2,Catania,Café,Italian Restaurant,Cocktail Bar,Dessert Shop,Pub,Steakhouse,Cosmetics Shop,Wine Bar,Scenic Lookout,Bookstore
+20,3,Bielefeld,Park,Café,Theater,Steakhouse,Italian Restaurant,Gastropub,Coffee Shop,Cocktail Bar,Gym / Fitness Center,Pub
+21,3,Stuttgart,Park,Café,Italian Restaurant,Gastropub,Scenic Lookout,Cocktail Bar,History Museum,Dessert Shop,Coffee Shop,Mountain
+22,3,Dortmund,Café,Park,Italian Restaurant,History Museum,Garden Center,Coffee Shop,Food Truck,Soccer Stadium,Theater,Bookstore
+23,3,Duisburg,Café,Italian Restaurant,Park,Scenic Lookout,Pub,Gym / Fitness Center,Art Gallery,Garden Center,Gastropub,History Museum
+24,3,Essen,Café,Park,Italian Restaurant,Pub,History Museum,Theater,Steakhouse,Scenic Lookout,Coffee Shop,Food Truck
+25,3,Düsseldorf,Café,Park,Italian Restaurant,Steakhouse,Gym / Fitness Center,Coffee Shop,Gastropub,Pedestrian Plaza,Farm,History Museum
+26,3,Mannheim,Café,Italian Restaurant,Park,Coffee Shop,Gym / Fitness Center,Gastropub,Cocktail Bar,History Museum,Dessert Shop,Cupcake Shop
+27,3,Bochum,Café,Park,Italian Restaurant,History Museum,Pub,Theater,Steakhouse,Mountain,Soccer Stadium,Food Truck
+28,3,Wuppertal,Café,Gastropub,History Museum,Park,Italian Restaurant,Gym / Fitness Center,Farm,Steakhouse,Food Truck,Scenic Lookout
+29,3,Valencia,Italian Restaurant,Park,Café,Dessert Shop,Art Gallery,Pub,Coffee Shop,Theater,Gastropub,Cocktail Bar
+30,3,Frankfurt,Café,Italian Restaurant,Park,Gym / Fitness Center,Steakhouse,Coffee Shop,Cocktail Bar,Wine Bar,Scenic Lookout,Garden Center
+31,3,Kraków,Café,Park,Italian Restaurant,Coffee Shop,Pub,Wine Bar,Bookstore,Food Truck,Art Gallery,Scenic Lookout
+32,4,Genoa,Scenic Lookout,Pub,Italian Restaurant,Cocktail Bar,Coffee Shop,Theater,History Museum,Café,Park,Dessert Shop
+33,5,Florence,Italian Restaurant,Café,Park,Dessert Shop,Pub,Steakhouse,Food Truck,Wine Bar,Coffee Shop,Gym / Fitness Center
+34,5,Bologna,Italian Restaurant,Café,Park,Cupcake Shop,Pub,Dessert Shop,Gym / Fitness Center,Bookstore,Cocktail Bar,Mountain
+35,6,Bilbao,Café,Park,Gastropub,Scenic Lookout,Pub,Theater,Gym / Fitness Center,Soccer Stadium,Bookstore,Train Station
+36,6,Utrecht,Park,Coffee Shop,Steakhouse,Italian Restaurant,Pub,Gym / Fitness Center,Train Station,Farm,Gastropub,Café
+37,6,Dresden,Park,Coffee Shop,Café,Gastropub,Soccer Stadium,Scenic Lookout,Beer Store,Cocktail Bar,Train Station,Art Gallery
+38,6,Riga,Park,Café,Gym / Fitness Center,Scenic Lookout,Beer Store,Theater,Coffee Shop,Pedestrian Plaza,Wine Bar,Italian Restaurant
+39,7,Nantes,Train Station,Park,Dessert Shop,Cocktail Bar,Gym / Fitness Center,Gastropub,Garden Center,Food Truck,Farm,Wine Bar
+40,8,Brno,Café,Pub,Park,Coffee Shop,Theater,Gastropub,Dessert Shop,Italian Restaurant,Cocktail Bar,Gym / Fitness Center
+41,8,Gothenburg,Café,Pub,Coffee Shop,Park,Wine Bar,Bookstore,Food Truck,History Museum,Art Gallery,Scenic Lookout
+42,9,Bonn,Italian Restaurant,Café,Park,Pedestrian Plaza,History Museum,Steakhouse,Cocktail Bar,Mountain,Pub,Coffee Shop
+43,9,Nice,Italian Restaurant,Café,Scenic Lookout,Train Station,Park,Cocktail Bar,Pedestrian Plaza,Theater,Steakhouse,Cupcake Shop
+44,9,Hanover,Italian Restaurant,Park,Coffee Shop,Café,Steakhouse,Cocktail Bar,Gastropub,Gym / Fitness Center,History Museum,Train Station
+45,9,Irkutsk,Café,Coffee Shop,Cocktail Bar,Pedestrian Plaza,Garden Center,Pub,Wine Bar,Dessert Shop,Gastropub,Food Truck
+46,9,Karlsruhe,Café,Italian Restaurant,Coffee Shop,Train Station,Gastropub,Park,History Museum,Scenic Lookout,Pub,Cocktail Bar
+47,9,Antwerp,Coffee Shop,Italian Restaurant,Park,Gym / Fitness Center,Cocktail Bar,Farm,Café,Steakhouse,Bookstore,Cosmetics Shop
+48,9,Palma de Mallorca,Café,Coffee Shop,Italian Restaurant,Cocktail Bar,Park,Steakhouse,Scenic Lookout,Wine Bar,Dessert Shop,History Museum
